@@ -1,0 +1,36 @@
+/* GENERAL ELEMENTS */
+body {
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+/* HEADER */
+header {
+    background-color: rgba(34,47,63,255);
+}
+
+header img {
+    width: 7.5%;
+    padding: 10px 30px;
+}
+
+/* NAV */
+nav {
+    width: 100%;
+    background-color: rgba(54,71,87,255);
+    color: rgba(235,244,251,255);
+    border-bottom: solid 1px rgba(39,56,72,255);
+    font-size: 0.9em;
+}
+
+li:first-of-type {
+    padding-left: 22.5px;
+}
+
+li {
+    display: inline;
+    padding: 7.5px;
+}
+
+ul {
+    padding: 7.5px;
+}
